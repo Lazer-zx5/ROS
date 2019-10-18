@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/levon/projects/ROS/catkin_ws/src/xpp/robots/xpp_hyq/include/**",
+        "/home/levon/projects/ROS/catkin_ws/src/xpp/xpp_msgs/include/**",
+        "/home/levon/projects/ROS/catkin_ws/src/xpp/xpp_states/include/**",
+        "/home/levon/projects/ROS/catkin_ws/src/xpp/xpp_vis/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

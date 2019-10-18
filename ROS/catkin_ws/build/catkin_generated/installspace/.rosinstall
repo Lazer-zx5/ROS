@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/levon/projects/ROS/catkin_ws/install/setup.sh
