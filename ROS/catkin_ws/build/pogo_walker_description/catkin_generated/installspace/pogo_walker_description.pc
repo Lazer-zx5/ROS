@@ -1,0 +1,8 @@
+prefix=/home/levon/projects/ROS/catkin_ws/install
+
+Name: pogo_walker_description
+Description: Description of pogo_walker_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/levon/projects/ROS/catkin_ws/install/lib 
+Requires: 

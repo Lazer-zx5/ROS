@@ -1,0 +1,8 @@
+prefix=/home/levon/projects/ROS/catkin_ws/devel
+
+Name: xpp_vis
+Description: Description of xpp_vis
+Version: 1.0.10
+Cflags: -I/home/levon/projects/ROS/catkin_ws/src/xpp/xpp_vis/include
+Libs: -L/home/levon/projects/ROS/catkin_ws/devel/lib -lxpp_vis
+Requires: xpp_states xpp_msgs

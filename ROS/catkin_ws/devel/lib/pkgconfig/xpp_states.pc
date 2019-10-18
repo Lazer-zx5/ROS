@@ -1,0 +1,8 @@
+prefix=/home/levon/projects/ROS/catkin_ws/devel
+
+Name: xpp_states
+Description: Description of xpp_states
+Version: 1.0.10
+Cflags: -I/home/levon/projects/ROS/catkin_ws/src/xpp/xpp_states/include -I/usr/include/eigen3
+Libs: -L/home/levon/projects/ROS/catkin_ws/devel/lib -lxpp_states
+Requires: 
